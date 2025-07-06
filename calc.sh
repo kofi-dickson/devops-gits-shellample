@@ -4,3 +4,4 @@
 
 y=a+b
 z=8a/4a
+dy/dx=5x+2y-8
