@@ -9,4 +9,5 @@ z=8a/4a
 dy/dx=5x+2y-8
 =======
 dydx= 5s+6j
->>>>>>> koko
+>>>>>>> kok
+b=7y+9-7o
